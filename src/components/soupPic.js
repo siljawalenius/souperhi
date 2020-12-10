@@ -1,4 +1,5 @@
 import React from "react";
+import "../index.css"
 
 class SoupPic extends React.Component{
     render(){
