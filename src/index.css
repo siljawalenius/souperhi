@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Volkhov:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root{
+  --orange: #FFD29D;
+  --green: #07501B;
+  --font: 'Volkhov', serif;
+}
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,6 +14,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  background-color: #FFD29D;
+  color: #07501B;
+  font-family: 'Volkhov', serif;
 }
 
 code {
