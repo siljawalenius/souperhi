@@ -13,6 +13,7 @@ class About extends React.Component {
           <p>want to add a soup?</p>
           <a href = "#">click here</a>
         </div>
+        <p className = "footer">coded with love by silja</p>
       </div>
     );
   }

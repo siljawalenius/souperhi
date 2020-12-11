@@ -1,0 +1,18 @@
+.about .frame{
+    background-color: #FFF5DD;
+    padding: 100px 115px;
+    color: var(--green);
+    text-align: center;
+    font-size: 18px;
+
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.about .footer{
+    position:absolute;
+    left: 50%;
+    bottom: 10px;
+
+}
