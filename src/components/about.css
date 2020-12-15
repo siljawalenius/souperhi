@@ -1,3 +1,9 @@
+.about{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
 .about .frame{
     background-color: #FFF5DD;
     padding: 100px 115px;
