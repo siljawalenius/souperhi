@@ -1,5 +1,5 @@
 import React from "react";
-import "./allsoups.css";
+//import "./allsoups.css";
 
 class AllSoups extends React.Component {
   render() {
