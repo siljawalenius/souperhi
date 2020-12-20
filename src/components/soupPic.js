@@ -5,7 +5,7 @@ class SoupPic extends React.Component{
     render(){
         return(
             <div className = "pic">
-                Hello!
+                <img src = {require("../illos/logo.svg")} alt = "logo" />
             </div>
         )
     }
