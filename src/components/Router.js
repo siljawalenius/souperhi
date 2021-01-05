@@ -2,6 +2,7 @@ import React from "react";
 import {BrowserRouter, Route, Switch } from "react-router-dom"
 import About from "./about"
 
+
 import AllSoups from "./allSoups"
 import SingleSoup from "./singleSoup"
 
@@ -18,3 +19,9 @@ const Router = () => (
 );
 
 export default Router;
+
+//how to get proper soup data to soups/ 
+//best option is probably an API
+//still to do: 
+// finish soup drawings
+// add recipe data onto api 
