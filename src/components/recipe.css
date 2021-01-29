@@ -1,4 +1,16 @@
 .recipe{
     background-color: var(--text-bg);
-    
+    padding: 0 30px;
+}
+
+.ingredients{
+    text-align: left;
+    font-weight: 700;
+} 
+
+.recipe-text{
+    font-weight: 700;
+    text-align: left;
+
+    padding-top: 40px;
 }

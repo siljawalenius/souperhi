@@ -11,8 +11,8 @@ class Footer extends React.Component{
     render(){
         return(
             <div className = "footer">
-                <img className = "logo" src = '../illos/logo.png' alt = "logo"></img>
-                
+                <img className = "logo" src = '../illos/logo.svg' alt = "logo"></img>
+  
                 <button 
                     className = "random"
                     onClick = {this.openAll}
